@@ -11,7 +11,7 @@ A place where you can save your sudden thoughts or something important which get
 * **Add New Note** 
 * **Delete a Note Easily**
 * **Search for a Note Effectively**
-* * **Edit your notes any time**
+* **Edit your notes any time**
 * **Open your note anytime data will be saved**
   
 **Getting Started**
